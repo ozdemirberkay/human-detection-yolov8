@@ -1,6 +1,7 @@
 # Human Detection from Images Using YOLOv8
 
-This project uses the YOLOv8 model to detect humans in images.
+This project uses the YOLOv8 model, trained on a custom dataset, to detect humans in images.
+
 
 ## Dataset
 
